@@ -3,24 +3,10 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 width="6.833px" height="23.603px" viewBox="0 0 6.833 23.603" enable-background="new 0 0 6.833 23.603" xml:space="preserve">
-<g>
-	<defs>
-		<rect id="SVGID_1_" width="6.833" height="23.603"/>
-	</defs>
-	<clipPath id="SVGID_2_">
-		<use xlink:href="#SVGID_1_"  overflow="visible"/>
-	</clipPath>
-	<g clip-path="url(#SVGID_2_)">
-		<path fill="#FFFFFF" d="M2.461,8.912L1.572,8.453l0.972-1.878l0.889,0.459L2.461,8.912z M4.404,5.155L3.516,4.696l0.972-1.878
-			l0.889,0.459L4.404,5.155z"/>
-	</g>
-	<g clip-path="url(#SVGID_2_)">
-		<path fill="#FFFFFF" d="M4.448,20.632l-0.965-1.98l0.899-0.438l0.964,1.98L4.448,20.632z M2.52,16.67l-0.964-1.98l0.899-0.438
-			l0.964,1.98L2.52,16.67z"/>
-	</g>
-	<g clip-path="url(#SVGID_2_)">
-		<path fill="#FFFFFF" d="M5.894,23.603l-0.481-0.99l0.898-0.438l0.481,0.99L5.894,23.603z M0.592,12.708L0,11.494l0.601-1.163
-			l0.889,0.459l-0.37,0.716l0.372,0.764L0.592,12.708z M6.347,1.399l-0.889-0.46L5.944,0l0.889,0.46L6.347,1.399z"/>
-	</g>
-</g>
+<path fill="#FFFFFF" d="M2.461,8.912L1.572,8.453l0.972-1.878l0.889,0.459L2.461,8.912z M4.404,5.155L3.516,4.696l0.972-1.878
+	l0.889,0.459L4.404,5.155z"/>
+<path fill="#FFFFFF" d="M4.448,20.632l-0.965-1.98l0.899-0.438l0.964,1.98L4.448,20.632z M2.52,16.67l-0.964-1.98l0.899-0.438
+	l0.964,1.98L2.52,16.67z"/>
+<path fill="#FFFFFF" d="M5.894,23.603l-0.481-0.99l0.898-0.438l0.481,0.99L5.894,23.603z M0.592,12.708L0,11.494l0.601-1.163
+	l0.889,0.459l-0.37,0.716l0.372,0.764L0.592,12.708z M6.347,1.399l-0.889-0.46L5.944,0l0.889,0.46L6.347,1.399z"/>
 </svg>

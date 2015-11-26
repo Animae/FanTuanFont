@@ -3,37 +3,6 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 width="16.512px" height="57.774px" viewBox="0 0 16.512 57.774" enable-background="new 0 0 16.512 57.774" xml:space="preserve">
-<g>
-	<defs>
-		<rect id="SVGID_1_" x="1" y="9" width="14.512" height="39.774"/>
-	</defs>
-	<clipPath id="SVGID_2_">
-		<use xlink:href="#SVGID_1_"  overflow="visible"/>
-	</clipPath>
-	<g clip-path="url(#SVGID_2_)">
-		<defs>
-			<rect id="SVGID_3_" x="1" y="9" width="14.512" height="39.774"/>
-		</defs>
-		<clipPath id="SVGID_4_">
-			<use xlink:href="#SVGID_3_"  overflow="visible"/>
-		</clipPath>
-		<g opacity="0.5" clip-path="url(#SVGID_4_)">
-			<g>
-				<defs>
-					<rect id="SVGID_5_" width="16.512" height="57.774"/>
-				</defs>
-				<clipPath id="SVGID_6_">
-					<use xlink:href="#SVGID_5_"  overflow="visible"/>
-				</clipPath>
-				<g clip-path="url(#SVGID_6_)">
-					<polygon fill="#FFFFFF" points="14.908,9.388 5.979,28.887 14.908,48.387 10.354,48.387 1.427,28.887 10.354,9.388 					"/>
-				</g>
-				<g clip-path="url(#SVGID_6_)">
-					<path d="M15.513,48.774h-5.407L1,28.887l0.074-0.161L10.105,9h5.407L6.406,28.887L15.513,48.774z M10.604,47.999h3.7
-						L5.553,28.887l8.751-19.111h-3.7l-8.75,19.111L10.604,47.999z"/>
-				</g>
-			</g>
-		</g>
-	</g>
-</g>
+<path fill="#231F20" d="M15.513,48.774h-5.407L1,28.887l0.074-0.161L10.105,9h5.407L6.406,28.887L15.513,48.774z M10.604,47.999h3.7
+	L5.553,28.887l8.751-19.111h-3.7l-8.75,19.111L10.604,47.999z"/>
 </svg>

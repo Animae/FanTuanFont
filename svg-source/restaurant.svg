@@ -4,10 +4,14 @@
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 width="16.455px" height="16.048px" viewBox="0 0 16.455 16.048" enable-background="new 0 0 16.455 16.048" xml:space="preserve">
 <g>
-	<polygon fill="none" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" points="8.91,0.673 15.91,8.798 11.92,8.798 
-		11.92,15.798 8.91,15.798 	"/>
-	<polygon fill="none" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" points="7.545,0.673 0.545,8.798 4.535,8.798 
-		4.535,15.798 7.545,15.798 	"/>
-	<circle fill="none" stroke="#000000" stroke-width="0.5" stroke-miterlimit="10" cx="8.243" cy="8.923" r="2.042"/>
+	<path d="M12.17,16.048H8.66V0l7.795,9.048H12.17V16.048z M9.16,15.548h2.51v-7h3.694L9.16,1.347V15.548z"/>
+</g>
+<g>
+	<path d="M7.795,16.048h-3.51v-7H0L7.795,0V16.048z M4.785,15.548h2.51V1.347L1.091,8.548h3.694V15.548z"/>
+</g>
+<g>
+	<path d="M8.243,11.215c-1.264,0-2.292-1.028-2.292-2.292s1.028-2.292,2.292-2.292s2.292,1.028,2.292,2.292
+		S9.507,11.215,8.243,11.215z M8.243,7.132c-0.988,0-1.792,0.804-1.792,1.792s0.804,1.792,1.792,1.792s1.792-0.804,1.792-1.792
+		S9.231,7.132,8.243,7.132z"/>
 </g>
 </svg>

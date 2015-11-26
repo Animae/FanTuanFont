@@ -3,44 +3,7 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 width="16.256px" height="17.389px" viewBox="0 0 16.256 17.389" enable-background="new 0 0 16.256 17.389" xml:space="preserve">
-<g id="Layer_2">
-	<g>
-		<g>
-			<defs>
-				<rect id="SVGID_1_" y="0" width="16.256" height="17.389"/>
-			</defs>
-			<clipPath id="SVGID_2_">
-				<use xlink:href="#SVGID_1_"  overflow="visible"/>
-			</clipPath>
-			<g clip-path="url(#SVGID_2_)">
-				<path fill="#FFFFFF" d="M4.979,17.389C2.233,17.389,0,15.156,0,12.412s2.233-4.977,4.979-4.977c2.744,0,4.978,2.233,4.978,4.977
-					S7.723,17.389,4.979,17.389z M4.979,7.867c-2.506,0-4.545,2.039-4.545,4.544s2.039,4.544,4.545,4.544s4.544-2.038,4.544-4.544
-					S7.484,7.867,4.979,7.867z"/>
-			</g>
-		</g>
-		<g>
-			<defs>
-				<rect id="SVGID_3_" y="0" width="16.256" height="17.389"/>
-			</defs>
-			<clipPath id="SVGID_4_">
-				<use xlink:href="#SVGID_3_"  overflow="visible"/>
-			</clipPath>
-			<g clip-path="url(#SVGID_4_)">
-				<polygon fill="#FFFFFF" points="16.257,8.107 15.823,8.107 15.823,0.432 7.934,0.432 7.934,-0.001 16.257,-0.001 				"/>
-			</g>
-		</g>
-		<g>
-			<defs>
-				<rect id="SVGID_5_" y="0" width="16.256" height="17.389"/>
-			</defs>
-			<clipPath id="SVGID_6_">
-				<use xlink:href="#SVGID_5_"  overflow="visible"/>
-			</clipPath>
-			<g clip-path="url(#SVGID_6_)">
-				
-					<rect x="11.609" y="-1.285" transform="matrix(0.7444 0.6677 -0.6677 0.7444 6.0543 -6.7357)" fill="#FFFFFF" width="0.433" height="11.652"/>
-			</g>
-		</g>
-	</g>
-</g>
+<path fill="#FFFFFF" d="M7.934-0.001v0.433h7.415L8.08,8.55C7.227,7.863,6.156,7.435,4.979,7.435C2.233,7.435,0,9.667,0,12.412
+	s2.233,4.978,4.979,4.978c2.744,0,4.978-2.233,4.978-4.978c0-1.386-0.572-2.64-1.49-3.542l7.357-8.217v7.455h0.434v-8.108H7.934z
+	 M9.522,12.412c0,2.506-2.038,4.544-4.544,4.544s-4.545-2.038-4.545-4.544s2.039-4.544,4.545-4.544S9.522,9.906,9.522,12.412z"/>
 </svg>

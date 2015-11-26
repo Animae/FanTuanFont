@@ -3,23 +3,8 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 width="10.82px" height="18.179px" viewBox="0 0 10.82 18.179" enable-background="new 0 0 10.82 18.179" xml:space="preserve">
-<g>
-	<defs>
-		<rect id="SVGID_1_" width="10.82" height="18.179"/>
-	</defs>
-	<clipPath id="SVGID_2_">
-		<use xlink:href="#SVGID_1_"  overflow="visible"/>
-	</clipPath>
-	<g clip-path="url(#SVGID_2_)">
-		<path fill="#FFFFFF" d="M5.535,9.955c-2.744,0-4.977-2.233-4.977-4.978S2.791,0,5.535,0c2.745,0,4.979,2.233,4.979,4.978
-			S8.28,9.955,5.535,9.955z M5.535,0.433c-2.505,0-4.544,2.039-4.544,4.545S3.03,9.522,5.535,9.522c2.506,0,4.545-2.039,4.545-4.545
-			S8.041,0.433,5.535,0.433z"/>
-	</g>
-	<g clip-path="url(#SVGID_2_)">
-		<rect x="5.194" y="9.806" fill="#FFFFFF" width="0.433" height="8.373"/>
-	</g>
-	<g clip-path="url(#SVGID_2_)">
-		<rect y="13.126" fill="#FFFFFF" width="10.82" height="0.434"/>
-	</g>
-</g>
+<path fill="#FFFFFF" d="M10.82,13.126H5.626v-3.18c2.702-0.05,4.887-2.255,4.887-4.968C10.514,2.233,8.28,0,5.535,0
+	C2.791,0,0.559,2.233,0.559,4.978c0,2.628,2.053,4.764,4.635,4.943v3.206H0v0.434h5.194v4.619h0.433V13.56h5.194V13.126z
+	 M0.991,4.978c0-2.506,2.039-4.545,4.544-4.545c2.506,0,4.545,2.039,4.545,4.545S8.041,9.522,5.535,9.522
+	C3.03,9.522,0.991,7.483,0.991,4.978z"/>
 </svg>
