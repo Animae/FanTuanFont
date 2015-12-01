@@ -1,0 +1,33 @@
+{
+  "name": "FanTuanFont",
+  "homepage": "https://github.com/Animae/FanTuanFont",
+  "authors": [
+    "jiansen <jiansenhe@gmail.com>"
+  ],
+  "description": "Font resources used for the FanTuan project",
+  "main": [
+      "scss/webfont.scss",
+      "fonts/Calibri.eot",
+      "fonts/Calibri.svg",
+      "fonts/Calibri.ttf",
+      "fonts/Calibri.woff",
+      "fonts/fantuan.eot",
+      "fonts/fantuan.svg",
+      "fonts/fantuan.ttf",
+      "fonts/fantuan.woff",
+      "fonts/simfang.eot",
+      "fonts/simfang.svg",
+      "fonts/simfang.ttf",
+      "fonts/simfang.woff"
+  ],
+  "moduleType": [],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
